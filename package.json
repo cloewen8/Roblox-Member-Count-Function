@@ -1,0 +1,22 @@
+{
+  "name": "roblox-member-count-function",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloewen8/Roblox-Member-Count-Function.git"
+  },
+  "author": "Colton Loewen",
+  "bugs": {
+    "url": "https://github.com/cloewen8/Roblox-Member-Count-Function/issues"
+  },
+  "homepage": "https://github.com/cloewen8/Roblox-Member-Count-Function#readme",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
